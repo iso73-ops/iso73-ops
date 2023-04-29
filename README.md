@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at the "Cybersecurity" faculty with confident skills in working with Linux terminal, bash, and a strong foundation in Python. I have several personal projects, including work with Python (Selenium, Telebot, Beautifulsoup, and Django).<br><br>Previously, I worked on a game development project using C++, Perforce, DigitalOcean, and Jenkins. Currently, I am expanding my skills in DevOps and web development, focusing on the use of AWS, Docker, Terraform, Kubernetes, Node.js, and Django.<br><br>I am always looking for opportunities to learn and grow in the technology industry, and I am excited to apply my skills and experience to tackle new tasks.
+I am a student at the "Cybersecurity" faculty with confident skills in working with Linux terminal, bash, and experience in Python. I have several personal projects, including work with Python (Selenium, Telebot, Beautifulsoup, and Django).<br><br>Now I am expanding my skills in DevOps (AWS, Docker, Terraform, Kubernetes) and Web Development (Node.js, and Django, nginx)<br><br>Previously, I worked on a game development project using C++, Perforce, DigitalOcean, and Jenkins.<br><br>I am always looking for opportunities to learn and grow in the technology industry, and I am excited to apply my skills and experience to tackle new tasks.
 
 
 ## 🌐 Socials:
